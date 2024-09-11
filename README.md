@@ -1,0 +1,1 @@
+At the Educational Opportunity Project, I worked on two main projects: 1) gathering, cleaning, and analyzing absenteeism data and 2) cleaning and validating kindergarten readiness assessment data for Maryland. In the folders, you will find some of the STATA code and Python code I wrote for these projects.
