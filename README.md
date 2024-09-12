@@ -1,1 +1,2 @@
-At the Educational Opportunity Project, I worked on two main projects: 1) gathering, cleaning, and analyzing absenteeism data and 2) cleaning and validating kindergarten readiness assessment data for Maryland. In the folders, you will find some of the STATA code and Python code I wrote for these projects.
+At the Educational Opportunity Project, I worked on two main projects: 1) gathering, cleaning, and analyzing absenteeism data and 2) PDF scraping, cleaning, and validating kindergarten readiness assessment (KRA) data for the state of Maryland. In the folders, you will find some of the STATA and Python code I wrote for these projects, as well as the results of the absenteeism and learning loss preliminary analysis.
+
