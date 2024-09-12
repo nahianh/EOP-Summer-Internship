@@ -6,11 +6,6 @@
 *** set up ---------------------------------------------------------------------
 
 clear all
-	
-if "`c(username)'" == "sadierichardson" {
-	glob ccd_data "/Users/sadierichardson/Dropbox/seda_2024/intern tasks/absenteeism/supplemental data/ccd data"
-}
-
 
 if "`c(username)'" ==  "nahian" {
 	glob ccd_data "/home/nahian/EOP/absenteeism/ccd data"
